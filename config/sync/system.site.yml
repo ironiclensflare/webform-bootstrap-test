@@ -1,0 +1,14 @@
+uuid: c7b54283-90d2-4798-b41c-d1084f8cb171
+name: 'Webform and Bootstrap Test'
+mail: mail@stuart-carruthers.me
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
